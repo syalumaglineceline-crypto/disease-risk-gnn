@@ -7,10 +7,7 @@ which districts are at high disease risk, does it help to know about a
 district's *neighbours*, or is the district's own profile enough? I use COVID-19
 across Indian districts as the test case, but the method is meant to be general.
 
-I come from a data-analysis background and wanted to teach myself graph machine
-learning on a problem close to public-health surveillance. So the modelling is
-deliberately kept simple, and the focus is on running the comparison honestly
-and being able to explain the result rather than chasing a high accuracy number.
+I worked in applied machine learning, with predictive-modelling projects behind me such as housing-market forecasting and an accident-casualty pipeline. This project was my way into graph machine learning, applied to a problem close to public-health surveillance. I kept the modelling simple on purpose, so the emphasis stays on an honest comparison and on being able to explain the result rather than on the headline accuracy.
 
 ## The question, more precisely
 
